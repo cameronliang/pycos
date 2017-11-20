@@ -1,12 +1,12 @@
 # pycos
-########################################################################################
+###################################################################################
 #
 #   		(c) Cameron J. Liang
 #		    University of Chicago
 #     		    jwliang@oddjob.uchicago.edu
 #     	            Cameron.Liang@gmail.com
 #
-########################################################################################
+###################################################################################
 
 
  PyCOS: Python Cosmic Origin Spectrograph Reduction Pipeline
@@ -29,7 +29,7 @@ FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TOR
 OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
 DEALINGS IN THE SOFTWARE.
 
-########################################################################################
+###################################################################################
 
 
 PyCOS assumes standard Python libraries: numpy, scipy, matplotlib and pyfits. 
@@ -37,7 +37,7 @@ I recommend installing the Enthought Canopy which comes with all the scientific
 libraries you need. You can find it here: https://www.enthought.com/products/canopy/
 
 
-########################################################################################
+###################################################################################
 
 How TO Use the Reduction Pipeline PyCOS
 
@@ -70,11 +70,11 @@ How TO Use the Reduction Pipeline PyCOS
 
 5. Run Coaddition.py to combine both gratings
 
-########################################################################################
+###################################################################################
 
 
 See ./docs/pycos.pdf for more documentation. If you use PyCOS, 
 please cite Liang & Chen 2014.
 
-########################################################################################
+###################################################################################
 
