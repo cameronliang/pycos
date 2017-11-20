@@ -32,6 +32,12 @@ DEALINGS IN THE SOFTWARE.
 ###################################################################################
 
 
+PyCOS is a reduction pipeline for the Cosmic Origin Spectrograph (COS) on the 
+Hubble Space Telescope. This code would not be possible without the help of 
+Hsiao-Wen Chen and Sean Johnson who has provided insights on how to reduce 
+the COS data properly, especially the wavelength dependents offsets in the 
+data. If you use the code, please cite Liang & Chen (2014). 
+
 PyCOS assumes standard Python libraries: numpy, scipy, matplotlib and pyfits. 
 I recommend installing the Enthought Canopy which comes with all the scientific 
 libraries you need. You can find it here: https://www.enthought.com/products/canopy/
