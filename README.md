@@ -80,7 +80,7 @@ How TO Use the Reduction Pipeline PyCOS
 
 
 See ./docs/pycos.pdf for more documentation. If you use PyCOS, 
-please cite Liang & Chen 2014.
+please cite Liang & Chen 2014: http://adsabs.harvard.edu/abs/2014MNRAS.445.2061L
 
 ###################################################################################
 
